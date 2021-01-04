@@ -1,1 +1,1 @@
-This is a repository containing all the programs from Python Masterclass (Udemy)
+This is a repository containing a few random python programs
